@@ -17,12 +17,11 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0.x-dev"
+            "dev-master": "1.0.0.x-dev"
         }
     },
     "minimum-stability": "dev",
     "require": {
-        "phpunit/phpunit": "^6.2",
-        "symfony/var-dumper": "^3.3"
+        "phpunit/phpunit": "^6.2"
     }
 }
